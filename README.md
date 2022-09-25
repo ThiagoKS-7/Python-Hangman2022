@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://user-images.githubusercontent.com/83460816/192163403-8d71391d-7dde-4192-953f-3a24a0b4e498.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Python Hangman Game</h3>
