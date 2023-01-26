@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A simple python hangman game, for praticing the language's fundamentals.
     <br> 
 </p>
 
